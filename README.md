@@ -326,7 +326,7 @@ With descriptive pull requests and auto generated release notes, you don't have 
 
 <img src="https://octodex.github.com/images/snowtocat_final.jpg" alt=celebrate width=300 align=right>
 
-### Congratulations friend, you've completed this course!
+### Congratulations friend, you've completed this course! 
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
