@@ -86,7 +86,7 @@ To set the stage for later, let's also add a bug that we'll fix as part of the r
 1. We'll merge this pull request now. Click `Merge pull request` and delete your branch.
 1. Wait about 20 seconds then refresh this page for the next step.
 
-</details>
+</details> 
 
 <!--Step 2-->
 <details id=2>
